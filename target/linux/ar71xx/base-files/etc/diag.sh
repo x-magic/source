@@ -36,7 +36,8 @@ get_status_led() {
 	dr344|\
 	tew-632brp|\
 	wpj344|\
-	zbt-we1526)
+	zbt-we1526|\
+    zsun-sdreader)
 		status_led="$board:green:status"
 		;;
 	ap136-010|\
